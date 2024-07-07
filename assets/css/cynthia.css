@@ -11771,3 +11771,8 @@ pre .code {
     color: #fff; /* Example: Change text color on hover */
     background-color: #F85C70; /* Example: Change background color on hover */
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
